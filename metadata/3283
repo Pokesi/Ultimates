@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/3283.png",
+    "id": 3283,
+    "name": "Ultimate Fantoms #3283",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "9"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "1"
+        },
+        {
+            "trait_type": "extra",
+            "value": "6"
+        },
+        {
+            "trait_type": "background",
+            "value": "Lost in the Blue"
+        }
+    ]
+}

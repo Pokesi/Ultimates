@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2636.png",
+    "id": 2636,
+    "name": "Ultimate Fantoms #2636",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "13"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "1"
+        },
+        {
+            "trait_type": "extra",
+            "value": "7"
+        },
+        {
+            "trait_type": "background",
+            "value": "The one with the Fantom logo"
+        }
+    ]
+}

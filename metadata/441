@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/441.png",
+    "id": 441,
+    "name": "Ultimate Fantoms #441",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "8"
+        },
+        {
+            "trait_type": "extra",
+            "value": "6"
+        },
+        {
+            "trait_type": "background",
+            "value": "The Flare"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2947.png",
+    "id": 2947,
+    "name": "Ultimate Fantoms #2947",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "9"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "7"
+        },
+        {
+            "trait_type": "extra",
+            "value": "none"
+        },
+        {
+            "trait_type": "background",
+            "value": "Sun over the Grass"
+        }
+    ]
+}

@@ -1,15 +1,15 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/12.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/12.png",
     "id": 12,
     "name": "Ultimate Fantoms #12",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "8"
+            "value": "2"
         },
         {
             "trait_type": "eyes",
-            "value": "5"
+            "value": "4"
         },
         {
             "trait_type": "mouth",
@@ -17,11 +17,11 @@
         },
         {
             "trait_type": "extra",
-            "value": "1"
+            "value": "none"
         },
         {
             "trait_type": "background",
-            "value": "The Depth"
+            "value": "Overseeing the Islands"
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/1591.png",
+    "id": 1591,
+    "name": "Ultimate Fantoms #1591",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "7"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "7"
+        },
+        {
+            "trait_type": "extra",
+            "value": "7"
+        },
+        {
+            "trait_type": "background",
+            "value": "Grass Clippings"
+        }
+    ]
+}

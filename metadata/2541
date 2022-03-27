@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2541.png",
+    "id": 2541,
+    "name": "Ultimate Fantoms #2541",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "4"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "5"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "2"
+        },
+        {
+            "trait_type": "extra",
+            "value": "none"
+        },
+        {
+            "trait_type": "background",
+            "value": "You're in the 'Gaming World'"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2301.png",
+    "id": 2301,
+    "name": "Ultimate Fantoms #2301",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "1"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "2"
+        },
+        {
+            "trait_type": "extra",
+            "value": "none"
+        },
+        {
+            "trait_type": "background",
+            "value": "Spanish Fields"
+        }
+    ]
+}

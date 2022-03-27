@@ -1,11 +1,11 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/9.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/9.png",
     "id": 9,
     "name": "Ultimate Fantoms #9",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "3"
+            "value": "5"
         },
         {
             "trait_type": "eyes",
@@ -13,15 +13,15 @@
         },
         {
             "trait_type": "mouth",
-            "value": "1"
+            "value": "4"
         },
         {
             "trait_type": "extra",
-            "value": "7"
+            "value": "4"
         },
         {
             "trait_type": "background",
-            "value": "Spanish Fields"
+            "value": "The Flare"
         }
     ]
 }

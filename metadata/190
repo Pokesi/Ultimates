@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/190.png",
+    "id": 190,
+    "name": "Ultimate Fantoms #190",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "9"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "2"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "2"
+        },
+        {
+            "trait_type": "extra",
+            "value": "none"
+        },
+        {
+            "trait_type": "background",
+            "value": "The Depth"
+        }
+    ]
+}

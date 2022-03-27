@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/792.png",
+    "id": 792,
+    "name": "Ultimate Fantoms #792",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "11"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "1"
+        },
+        {
+            "trait_type": "extra",
+            "value": "1"
+        },
+        {
+            "trait_type": "background",
+            "value": "You're in the 'Gaming World'"
+        }
+    ]
+}

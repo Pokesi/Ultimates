@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2017.png",
+    "id": 2017,
+    "name": "Ultimate Fantoms #2017",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "9"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "1"
+        },
+        {
+            "trait_type": "extra",
+            "value": "1"
+        },
+        {
+            "trait_type": "background",
+            "value": "The Depth"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/3071.png",
+    "id": 3071,
+    "name": "Ultimate Fantoms #3071",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "4"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "4"
+        },
+        {
+            "trait_type": "extra",
+            "value": "1"
+        },
+        {
+            "trait_type": "background",
+            "value": "Overseeing the Islands"
+        }
+    ]
+}

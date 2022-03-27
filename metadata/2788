@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2788.png",
+    "id": 2788,
+    "name": "Ultimate Fantoms #2788",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "2"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "2"
+        },
+        {
+            "trait_type": "extra",
+            "value": "5"
+        },
+        {
+            "trait_type": "background",
+            "value": "Sunrise on the Road"
+        }
+    ]
+}

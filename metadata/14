@@ -1,19 +1,19 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/14.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/14.png",
     "id": 14,
     "name": "Ultimate Fantoms #14",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "7"
+            "value": "11"
         },
         {
             "trait_type": "eyes",
-            "value": "1"
+            "value": "2"
         },
         {
             "trait_type": "mouth",
-            "value": "8"
+            "value": "2"
         },
         {
             "trait_type": "extra",
@@ -21,7 +21,7 @@
         },
         {
             "trait_type": "background",
-            "value": "Overseeing the Islands"
+            "value": "Grass Clippings"
         }
     ]
 }

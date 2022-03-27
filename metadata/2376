@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/2376.png",
+    "id": 2376,
+    "name": "Ultimate Fantoms #2376",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "13"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "7"
+        },
+        {
+            "trait_type": "extra",
+            "value": "none"
+        },
+        {
+            "trait_type": "background",
+            "value": "The Crayons have melted"
+        }
+    ]
+}

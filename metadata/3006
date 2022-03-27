@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/3006.png",
+    "id": 3006,
+    "name": "Ultimate Fantoms #3006",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "7"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "7"
+        },
+        {
+            "trait_type": "extra",
+            "value": "6"
+        },
+        {
+            "trait_type": "background",
+            "value": "Space, By Tonya"
+        }
+    ]
+}

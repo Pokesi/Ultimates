@@ -1,27 +1,27 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/3.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/3.png",
     "id": 3,
     "name": "Ultimate Fantoms #3",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "5"
+            "value": "3"
         },
         {
             "trait_type": "eyes",
-            "value": "1"
+            "value": "2"
         },
         {
             "trait_type": "mouth",
-            "value": "1"
+            "value": "2"
         },
         {
             "trait_type": "extra",
-            "value": "4"
+            "value": "7"
         },
         {
             "trait_type": "background",
-            "value": "You're in the 'Gaming World'"
+            "value": "The Crayons have melted"
         }
     ]
 }

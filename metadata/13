@@ -1,27 +1,27 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/13.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/13.png",
     "id": 13,
     "name": "Ultimate Fantoms #13",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "6"
+            "value": "10"
         },
         {
             "trait_type": "eyes",
-            "value": "3"
+            "value": "4"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
-        },
-        {
-            "trait_type": "extra",
             "value": "1"
         },
         {
+            "trait_type": "extra",
+            "value": "5"
+        },
+        {
             "trait_type": "background",
-            "value": "Sun over the Grass"
+            "value": "You're in the 'Gaming World'"
         }
     ]
 }

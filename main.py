@@ -1,4 +1,4 @@
-from PIL import Image 
+from PIL import Image
 import random
 import json
 
@@ -6,22 +6,22 @@ import json
 # The weightings for each trait drive the rarity and add up to 100%
 
 background = ["Space, By Tonya","Spanish Fields","Sunrise on the Road","Overseeing the Islands","You're in the 'Gaming World'","The one with the Fantom logo","Lost in the Blue","The Flare","Grass Clippings","The Depth","The Crayons have melted","Sun over the Grass"]
-background_weights = [7,7,7,7,7,7,7,7,7,7,13,10]
+background_weights = [2,5,5,5,5,8,10,10,10,10,15,15]
 
-body = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15"] 
+body = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15"]
 body_weights = [10,10,10,10,7,7,6,5,5,5,5,5,5,3,2]
 
-eyes = ["1", "2", "3", "4", "5","6"] 
+eyes = ["1", "2", "3", "4", "5","6"]
 eyes_weights = [40,20,15,10,10,5]
 
-mouth = ["1", "2", "3", "4", "5","6","7","8","9"] 
+mouth = ["1", "2", "3", "4", "5","6","7","8","9"]
 mouth_weights = [30,15,15,10,15,5,5,5,1]
 
 extra = ["1","none","3","4","5","6","7"]
-extra_weights = [30,30,0,15,3,2,15]
+extra_weights = [20,40,0,15,8,7,15]
 
 
-# Dictionary variable for each trait. 
+# Dictionary variable for each trait.
 # Eech trait corresponds to its file name
 background_files = {
     "Space, By Tonya": "bg1",
@@ -90,14 +90,14 @@ extra_files = {
 
 TOTAL_IMAGES = 3333 # Number of random unique images we want to generate
 
-all_images = [] 
+all_images = []
 
 # A recursive function to generate unique image combinations
 def create_new_image():
-    
+
     new_image = {} #
 
-    # For each trait category, select a random trait based on the weightings 
+    # For each trait category, select a random trait based on the weightings
     new_image["Background"] = random.choices(background, background_weights)[0]
     new_image["Body"] = random.choices(body, body_weights)[0]
     new_image["Eyes"] = random.choices(eyes, eyes_weights)[0]
@@ -108,13 +108,13 @@ def create_new_image():
         return create_new_image()
     else:
         return new_image
-    
-    
+
+
 # Generate the unique combinations based on trait weightings
-for i in range(TOTAL_IMAGES): 
-    
+for i in range(TOTAL_IMAGES):
+
     new_trait_image = create_new_image()
-    
+
     all_images.append(new_trait_image)
 
     # Returns true if all images are unique
@@ -137,11 +137,11 @@ print(all_images)
 background_count = {}
 for item in background:
     background_count[item] = 0
-    
+
 body_count = {}
 for item in body:
     body_count[item] = 0
-    
+
 eyes_count = {}
 for item in eyes:
     eyes_count[item] = 0
@@ -161,17 +161,17 @@ for image in all_images:
     mouth_count[image["Mouth"]] += 1
     extra_count[image["Extra"]] += 1
 
-    
+
 #print(body_count)
 #print(eyes_count)
 #print(mouth_count)
 
-#### Generate Metadata for all Traits 
-METADATA_FILE_NAME = './metadata/all-traits.json'; 
+#### Generate Metadata for all Traits
+METADATA_FILE_NAME = './metadata/all-traits.json';
 with open(METADATA_FILE_NAME, 'w') as outfile:
     json.dump(all_images, outfile, indent=4)
 
-#### Generate Images    
+#### Generate Images
 for item in all_images:
 
     im0 = Image.open(f'./trait-layers/backgrounds/{background_files[item["Background"]]}.png').convert('RGBA')
@@ -191,9 +191,9 @@ for item in all_images:
     file_name = str(item["tokenId"]) + ".png"
     rgb_im.save("./images/" + file_name)
     print("#" + str(item["tokenId"]) + " done!")
-#### Generate Metadata for each Image    
+#### Generate Metadata for each Image
 
-f = open('./metadata/all-traits.json',) 
+f = open('./metadata/all-traits.json',)
 data = json.load(f)
 
 
@@ -203,7 +203,7 @@ PROJECT_NAME = "Ultimate Fantoms #"
 def getAttribute(key, value):
     return {
         "trait_type": key,
-        "value": value 
+        "value": value
     }
 for i in data:
     token_id = i['tokenId']

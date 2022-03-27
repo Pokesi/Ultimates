@@ -1,27 +1,27 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/18.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/18.png",
     "id": 18,
     "name": "Ultimate Fantoms #18",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "1"
+            "value": "6"
         },
         {
             "trait_type": "eyes",
-            "value": "1"
+            "value": "2"
         },
         {
             "trait_type": "mouth",
-            "value": "1"
+            "value": "2"
         },
         {
             "trait_type": "extra",
-            "value": "1"
+            "value": "6"
         },
         {
             "trait_type": "background",
-            "value": "Overseeing the Islands"
+            "value": "The one with the Fantom logo"
         }
     ]
 }

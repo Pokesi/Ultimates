@@ -1,27 +1,27 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/7.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/7.png",
     "id": 7,
     "name": "Ultimate Fantoms #7",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "7"
+            "value": "5"
         },
         {
             "trait_type": "eyes",
-            "value": "1"
+            "value": "6"
         },
         {
             "trait_type": "mouth",
-            "value": "2"
-        },
-        {
-            "trait_type": "extra",
             "value": "1"
         },
         {
+            "trait_type": "extra",
+            "value": "4"
+        },
+        {
             "trait_type": "background",
-            "value": "Sun over the Grass"
+            "value": "The Crayons have melted"
         }
     ]
 }

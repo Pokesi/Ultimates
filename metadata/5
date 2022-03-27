@@ -1,27 +1,27 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/5.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/5.png",
     "id": 5,
     "name": "Ultimate Fantoms #5",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "2"
+            "value": "1"
         },
         {
             "trait_type": "eyes",
-            "value": "6"
+            "value": "1"
         },
         {
             "trait_type": "mouth",
-            "value": "5"
+            "value": "1"
         },
         {
             "trait_type": "extra",
-            "value": "7"
+            "value": "1"
         },
         {
             "trait_type": "background",
-            "value": "Spanish Fields"
+            "value": "Lost in the Blue"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "image": "https://github.com/Pokesi/Ultimates/blob/main/images/6.png",
+    "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/images/6.png",
     "id": 6,
     "name": "Ultimate Fantoms #6",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "14"
+            "value": "6"
         },
         {
             "trait_type": "eyes",
-            "value": "3"
+            "value": "1"
         },
         {
             "trait_type": "mouth",
@@ -21,7 +21,7 @@
         },
         {
             "trait_type": "background",
-            "value": "The one with the Fantom logo"
+            "value": "Sunrise on the Road"
         }
     ]
 }
