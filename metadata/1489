@@ -1,27 +1,31 @@
 {
     "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/main/images/1489.png",
     "id": 1489,
-    "name": "Ultimate Fantoms #1489",
+    "name": "Ultimate Fantoms #1489 - Fantoms x Fractal",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "4"
+            "value": "Futuristic Blue"
         },
         {
             "trait_type": "eyes",
-            "value": "1"
+            "value": "Loading Bar"
         },
         {
             "trait_type": "mouth",
-            "value": "4"
+            "value": "Jukebox"
         },
         {
             "trait_type": "extra",
-            "value": "6"
+            "value": "Fractal Ring"
         },
         {
             "trait_type": "background",
-            "value": "The one with the Fantom logo"
+            "value": "Binary"
+        },
+        {
+            "trait_type": "custom",
+            "value": "yes"
         }
     ]
 }

@@ -1,27 +1,31 @@
 {
     "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/main/images/1081.png",
     "id": 1081,
-    "name": "Ultimate Fantoms #1081",
+    "name": "Ultimate Fantoms #1081 - Fantoms x Fractal",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "2"
+            "value": "Lexicon Card"
         },
         {
             "trait_type": "eyes",
-            "value": "3"
+            "value": "unibrow"
         },
         {
             "trait_type": "mouth",
-            "value": "2"
+            "value": "none"
         },
         {
             "trait_type": "extra",
-            "value": "7"
+            "value": "Lexicon Card"
         },
         {
             "trait_type": "background",
-            "value": "Grass Clippings"
+            "value": "The Ether"
+        },
+        {
+            "trait_type": "custom",
+            "value": "yes"
         }
     ]
 }

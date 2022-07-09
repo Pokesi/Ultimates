@@ -1,27 +1,31 @@
 {
     "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/main/images/544.png",
     "id": 544,
-    "name": "Ultimate Fantoms #544",
+    "name": "Ultimate Fantoms #544 - Fantoms x SpiritSwap",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "4"
+            "value": "It's a me, Mario"
         },
         {
             "trait_type": "eyes",
-            "value": "1"
+            "value": "Soully"
         },
         {
             "trait_type": "mouth",
-            "value": "5"
+            "value": "Moustache"
         },
         {
             "trait_type": "extra",
-            "value": "4"
+            "value": "? Block"
         },
         {
             "trait_type": "background",
-            "value": "The one with the Fantom logo"
-        }
+            "value": "1-1"
+        },
+        {
+            "trait_type": "custom",
+            "value": "yes"
+        }        
     ]
 }

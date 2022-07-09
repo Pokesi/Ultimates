@@ -1,27 +1,31 @@
 {
     "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/main/images/63.png",
     "id": 63,
-    "name": "Ultimate Fantoms #63",
+    "name": "Ultimate Fantoms #63 - Fantoms x SpiritSwap",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "11"
+            "value": "Cool af"
         },
         {
             "trait_type": "eyes",
-            "value": "2"
+            "value": "Soully"
         },
         {
             "trait_type": "mouth",
-            "value": "1"
-        },
-        {
-            "trait_type": "extra",
             "value": "none"
         },
         {
+            "trait_type": "extra",
+            "value": "Cool tree"
+        },
+        {
             "trait_type": "background",
-            "value": "Grass Clippings"
+            "value": "Spirit Sky"
+        },
+        {
+            "trait_type": "custom",
+            "value": "yes"
         }
     ]
 }

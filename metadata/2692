@@ -1,27 +1,31 @@
 {
     "image": "https://raw.githubusercontent.com/Pokesi/Ultimates/main/images/2692.png",
     "id": 2692,
-    "name": "Ultimate Fantoms #2692",
+    "name": "Ultimate Fantoms #2692 - Fantoms x Fractal",
     "attributes": [
         {
             "trait_type": "body",
-            "value": "4"
+            "value": "RNDM tiles"
         },
         {
             "trait_type": "eyes",
-            "value": "3"
+            "value": "one"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "none"
         },
         {
             "trait_type": "extra",
-            "value": "6"
+            "value": "none"
         },
         {
             "trait_type": "background",
-            "value": "Lost in the Blue"
+            "value": "GREEEEN"
+        },
+        {
+            "trait_type": "custom",
+            "value": "yes"
         }
     ]
 }
